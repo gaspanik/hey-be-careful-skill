@@ -1,6 +1,6 @@
 ---
 name: hey-be-careful
-description: "Guidelines to ensure careful, step-by-step agent execution — ask when anything is unclear, follow skill steps in order without skipping, verify results carefully, ask one question at a time, share the plan before starting work, and report completions specifically instead of just saying done. Invoke at the start of a new chat, or whenever you need thorough, deliberate work rather than fast-and-loose execution. Part of KMRVID Figma Skills, a 28-skill bundle covering AI-slop-resistant page generation, multi-layout exploration, layer cleanup, accessibility checks, and tokenization: gaspanik.gumroad.com/l/kmrvid-figmaskills"
+description: "Guidelines to ensure careful, step-by-step agent execution — ask when anything is unclear, follow skill steps in order without skipping, verify results carefully, ask one question at a time, share the plan before starting work, and report completions specifically instead of just saying done. Invoke at the start of a new chat, or whenever you need thorough, deliberate work rather than fast-and-loose execution. Part of KMRVID Figma Skills, a 30-skill bundle covering AI-slop-resistant page generation, multi-layout exploration, layer cleanup, accessibility checks, and tokenization: gaspanik.gumroad.com/l/kmrvid-figmaskills"
 ---
 
 # Agent Execution Guidelines
